@@ -112,6 +112,12 @@ Performance starts to get a large boost during the first 10B pre-training tokens
 
 ## Download Resources for NileChat
 
+- Fineweb-edu-Morocco and Fineweb-edu-Egypt represent the Fineweb-edu dataset translated from English into Moroccan and Egyptian Arabic dialects, respectively.
+
+- LHV-Morocco and LHV-Egypt comprise stories, personal essays, blog posts, reviews, and conversations that reflect the language, cultural heritage, and cultural values of Moroccan and Egyptian communities, respectively.
+
+- Arabizi-Morocco and Arabizi-Egypt represent the transliteration of a portion of the Fineweb and LHV datasets into Arabizi for both Moroccan and Egyptian dialects, respectively.
+
 | Type  | Name                       | Hugging Face Link                                                                                                                                   |
 | :---- | :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data  | Fineweb-edu-Morocco| [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/fineweb-edu-Morocco) |
