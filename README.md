@@ -164,3 +164,9 @@ Please cite us if you use our data or models.
 ```bibtex
 
 ```
+
+## Acknowledgments
+We acknowledge support from Canada Research Chairs (CRC), the Natural Sciences and Engineering Research Council of Canada (NSERC; RGPIN-2018-04267), the Social Sciences and Humanities Research Council of Canada (SSHRC; 895-2020-1004; 895-2021-1008), Canadian Foundation for Innovation (CFI; 37771), [Digital Research Alliance of Canada](https://alliancecan.ca), and [UBC Advanced Research Computing-Sockeye](https://arc.ubc.ca/ubc-arc-sockeye).
+
+## Contact
+For any queries, please contact Abdellah El Mekki (4mekki4@gmail.com) or Muhammad Abdul-Mageed (muhammad.mageed@ubc.ca).
