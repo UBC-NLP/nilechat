@@ -122,13 +122,13 @@ Performance starts to get a large boost during the first 10B pre-training tokens
 
 | Type  | Name                       | Hugging Face Link                                                                                                                                   |
 | :---- | :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data  | Fineweb-edu-Morocco| [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/fineweb-edu-Morocco) |
-| Data  | Fineweb-edu-Egypt  | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/fineweb-edu-Egypt) |
-| Data  | Arabizi-Egypt      | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/Arabizi-Egypt)      |
-| Data  | Arabizi-Morocco    | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/Arabizi-Morocco)    |
-| Data  | LHV-Egypt          | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/LHV-Egypt)          |
-| Data  | LHV-Morocco        | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/LHV-Morocco)        |
-| Model | NileChat-3B                   | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/nilechat)                   |
+| Data  | nilechat-fw-edu-mor| [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-fw-edu-mor) |
+| Data  | nilechat-fw-edu-egy  | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-fw-edu-egy) |
+| Data  | UBC-NLP/nilechat-arabizi-egy      | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-egy)      |
+| Data  | nilechat-arabizi-mor    | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-mor)    |
+| Data  | nilechat-lhv-egy          | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-lhv-egy)          |
+| Data  | nilechat-lhv-mor        | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-lhv-mor)        |
+| Model | NileChat-3B                   | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/NileChat-3B)                   |
 
 ---
 
