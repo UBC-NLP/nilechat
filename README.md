@@ -124,7 +124,7 @@ Performance starts to get a large boost during the first 10B pre-training tokens
 | :---- | :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data  | nilechat-fw-edu-mor| [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-fw-edu-mor) |
 | Data  | nilechat-fw-edu-egy  | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-fw-edu-egy) |
-| Data  | UBC-NLP/nilechat-arabizi-egy      | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-egy)      |
+| Data  | nilechat-arabizi-egy      | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-egy)      |
 | Data  | nilechat-arabizi-mor    | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-mor)    |
 | Data  | nilechat-lhv-egy          | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-lhv-egy)          |
 | Data  | nilechat-lhv-mor        | [![Open In HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/UBC-NLP/nilechat-lhv-mor)        |
