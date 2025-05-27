@@ -12,13 +12,15 @@
 </p>
 <p align="center" float="left">
   <img src="images/ubc_logo.png" height="40" />
+  <img src="images/MBZUAI-logo.png" height="40" />
+    <img src="images/invertibleai-logo.png" height="40" />
 </p>
 
 
 
 [![Model on Hugging Face](https://img.shields.io/badge/🤗%20Model-NileChat-blue)](https://huggingface.co/UBC-NLP/NileChat-3B)
 [![Data on Hugging Face](https://img.shields.io/badge/🤗%20Dataset-NileChat_Data-green)](https://huggingface.co/collections/UBC-NLP/nilechat-pre-training-data-682fa0e96e6d610c32099ef5)
-[![Paper Link](https://img.shields.io/badge/📄%20Paper-Read%20Now-red)]()
+[![Paper Link](https://img.shields.io/badge/📄%20Paper-Read%20Now-red)](https://arxiv.org/abs/2505.18383)
 [![License](https://img.shields.io/badge/License-CC%20BY%20NC%204.0-red.svg)]()
 
 
@@ -26,7 +28,7 @@ Enhancing the linguistic capabilities of Large Language Models (LLMs) to include
 
 <p align="center" width="100%">
     <a href="https://github.com/UBC-NLP/nilechat" target="_blank">GitHub</a> |
-    <a href="https://arxiv.org/abs/YOUR_PAPER_ARXIV_ID" target="_blank">Paper</a>
+    <a href="https://arxiv.org/abs/2505.18383" target="_blank">Paper</a>
 </p>
 
 <div style="text-align: center; width: 100%;">
@@ -160,9 +162,17 @@ vllm serve UBC-NLP/NileChat-3B --tensor-parallel-size 1 --data-parallel-size 1
 ```
 
 ## Citation
-Please cite us if you use our data or models.
+Please cite this paper if you use our data or models.
 ```bibtex
-
+@misc{mekki2025nilechatlinguisticallydiverseculturally,
+      title={NileChat: Towards Linguistically Diverse and Culturally Aware LLMs for Local Communities}, 
+      author={Abdellah El Mekki and Houdaifa Atou and Omer Nacar and Shady Shehata and Muhammad Abdul-Mageed},
+      year={2025},
+      eprint={2505.18383},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.18383}, 
+}
 ```
 
 ## Acknowledgments
