@@ -12,7 +12,6 @@
 </p>
 <p align="center" float="left">
   <img src="images/ubc_logo.png" height="40" />
-  <img src="images/MBZUAI-logo.png" height="40" />
     <img src="images/invertibleai-logo.png" height="40" />
 </p>
 
