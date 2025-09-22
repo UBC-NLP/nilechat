@@ -31,7 +31,7 @@ Enhancing the linguistic capabilities of Large Language Models (LLMs) to include
 </p>
 
 <div style="text-align: center; width: 100%;">
-    <a><img src="images/nilechat_data_pipeline.png" alt="NileChat Framework" style="width: 100%; min-width: 300px; display: block; margin-left: auto; margin-right: auto;"></a>
+    <a><img src="images/nilechat_data_pipeline_2.png" alt="NileChat Framework" style="width: 100%; min-width: 300px; display: block; margin-left: auto; margin-right: auto;"></a>
     <p style="text-align: center;">
         <em>Proposed framework for data augmentation tailored to low-resource local communities. (a) Workflow for generating educational data in the target language through machine translation. (b) Workflow for generating diverse text genres in the target language by simulating scenarios that incorporate local cultural contexts and persona descriptions. (c) Retrieval process for augmenting local cultural knowledge by parsing web pages representing specific local cultural concepts through web search.</em>
     </p>
